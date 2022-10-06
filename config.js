@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ' , 'https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs' , 'https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F' , 'https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC' , 'https://chat.whatsapp.com/H7NUXdrGlFg20ae3bqgwlb'] // No tiene utilidad 
-global.channelYT = ['https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'] // No tiene utilidad
+global.linkGC = ['https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH' , 'https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH' , 'https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH' , 'https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH' , 'https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH'] // No tiene utilidad 
+global.channelYT = ['https://youtube.com/channel/UCMLhDVmKyU4208x9BYJifnA'] // No tiene utilidad
 global.owner = ['6287760550924' , '6287760550924' , '6287760550924'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 global.mods = ['6287760550924' , '6287760550924'] // No tiene utilidad
 global.prems = ['6287760550924' , '6287760550924'] // No tiene utilidad
